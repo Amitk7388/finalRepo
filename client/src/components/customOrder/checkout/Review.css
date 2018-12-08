@@ -1,0 +1,26 @@
+/* span{
+    margin-left: 30px;
+} */
+
+.check{
+    float: right;
+}
+.width350{
+	width: 300px;
+}
+.button-section{
+    display: flex;
+    min-height: 200px;
+    justify-content: right;
+}
+.button-container{
+    margin: auto;
+    justify-content: right;
+}
+.chkout-btn{
+    width: 250px;
+    height: 52px;
+    padding-top: 13px;
+    font-size: 18px;
+    margin: 0px auto;
+}
